@@ -1,4 +1,4 @@
-# :warning: MOVED TO [goblint/goblint-webfrontend-jsoo](https://github.com/goblint/goblint-webfrontend-jsoo) :warning:
+# :warning: MOVED TO [goblint/gobview](https://github.com/goblint/gobview) :warning:
 
 # Web Frontend for Goblint
 
